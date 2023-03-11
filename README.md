@@ -6,4 +6,9 @@ A repository of dataset and source code for the publication paper of RCT classif
 
 2. Download and unzip "rct_data.zip" file. You can find "rct_data.txt" file that is the RCT dataset used in the paper. 
  
-3. Place "Bat4RCT_Main.py" file in the same directory where input data file "rct_data.txt" and "modules.py" file are located. 
+3. Open the jupyter notebook ("Bat4RCT_Main.ipynb") in your machine or a cloud computing platform you use. Place data file ("rct_data.txt") and "modules.py" file in the same directory where the jupyter notebook is located. 
+
+4. Detailed instruction on how to run each model is described in the notebook.
+
+5. Also, you can use a python file ("Bat4RCT_Main.py") instead of the jupyter notebook to run the same models.
+
