@@ -3,6 +3,7 @@ A repository of dataset and source code for the publication paper of RCT classif
 
 ## How to use files  
 1. To get the results described in the paper, all the code was implemented on Python 3.9.16. To run the code, make sure that all packages in 'requirements.txt' file are installed. You can install them using pip. Type the following command: 
+                
                 pip install -r requirements.txt 
 
 2. Download and unzip "rct_data.zip" file. You can find "rct_data.txt" file that is the RCT dataset used in the paper. 
