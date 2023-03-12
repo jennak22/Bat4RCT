@@ -12,5 +12,5 @@ A repository of dataset and source code for the publication paper of RCT classif
 
 4. Detailed instruction on how to run each model is described in the notebook.
 
-5. Also, you can use a python file ("Bat4RCT_Main.py") instead of the jupyter notebook to run the same models.
+5. Also, you can use a python file ("bat4rct_main.py") instead of the jupyter notebook to run the same models.
 
